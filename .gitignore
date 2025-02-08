@@ -1,0 +1,11 @@
+# Ignore Node.js dependencies
+node_modules/
+.env
+
+# Ignore Python virtual environment
+venv/
+__pycache__/
+
+# Ignore build files
+dist/
+build/
