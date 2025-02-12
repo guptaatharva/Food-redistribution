@@ -1,4 +1,4 @@
-# 🍽️ AI-Powered Food Redistribution System
+# 🍽️ AI-Powered Food Redistribution System(Prototype)
 
 ## 📌 Overview
 This is a **full-stack web application** designed to **redistribute surplus food** from restaurants to orphanages using AI-powered matching and chatbot assistance.
